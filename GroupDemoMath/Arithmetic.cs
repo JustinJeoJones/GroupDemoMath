@@ -18,7 +18,7 @@ namespace GroupDemoMath
         }
         public static int Multipler(int x, int y)
         {
-            return x + y;
+            return x * y;
         }
         public static int Divider(int x, int y)
         {
